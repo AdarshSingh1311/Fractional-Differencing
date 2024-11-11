@@ -1,1 +1,1 @@
-# Fractional-Diffrencing
+# Fractional-Differencing
